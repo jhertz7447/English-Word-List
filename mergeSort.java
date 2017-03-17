@@ -1,5 +1,7 @@
 /**
  * Created by jasonhertz on 3/16/17.
+  * adapted from code by Victor Adamchik
+ * https://www.cs.cmu.edu/~adamchik/15-121/lectures/Sorting%20Algorithms/code/MergeSort.java
  */
 public class mergeSort {
 
